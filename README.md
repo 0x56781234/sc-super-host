@@ -11,7 +11,7 @@
 ](https://github.com/master131/ExtremeInjector/releases/download/v3.7.3/Extreme.Injector.v3.7.3.-.by.master131.rar)
 * [https://github.com/0x56781234/sc-super-host/super.dll](https://github.com/0x56781234/sc-super-host/archive/refs/heads/main.zip)
 
-3. 스타크래프트를 먼저 실행 후, 다음으로 ExtremeInjector을 관리자 권한으로 실행하여, 다음을 따르세요.
+2. 스타크래프트를 먼저 실행 후, 다음으로 ExtremeInjector을 관리자 권한으로 실행하여, 다음을 따르세요.
 * Process Name칸에 `StarCraft.exe`을 정확히 기재합니다.
 * Add DLL 버튼을 눌러서 `super.dll`을 추가합니다.
 * Inject 버튼을 누르면, 슈퍼 방장이 적용됩니다.
