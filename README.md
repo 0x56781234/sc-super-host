@@ -9,7 +9,7 @@
 1. 아래 링크에서 `ExtremeInjector`, `super.dll`을 다운로드 합니다.   
 * [https://github.com/master131/ExtremeInjector
 ](https://github.com/master131/ExtremeInjector/releases/download/v3.7.3/Extreme.Injector.v3.7.3.-.by.master131.rar)
-* [https://github.com/0x56781234/sc-super-host/super.dll](https://github.com/0x56781234/sc-super-host/blob/main/super.dll)
+* [https://github.com/0x56781234/sc-super-host/super.dll](https://github.com/0x56781234/sc-super-host/raw/refs/heads/main/super.dll)
 
 3. 스타크래프트를 먼저 실행 후, 다음으로 ExtremeInjector을 관리자 권한으로 실행하여, 다음을 따르세요.
 * Process Name칸에 `StarCraft.exe`을 정확히 기재합니다.
