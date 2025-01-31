@@ -18,5 +18,9 @@
 
 ![image](https://github.com/user-attachments/assets/95fdef61-97ce-498b-8e8e-3b72dece4195)
 
+
+### 참고사항
+본 프로젝트에서 제공하는 `super.dll`을 스타크래프트에 주입하는 `Injector` 프로그램은 가장 대중적으로 사용되는 `ExtremeInjector`를 소개해드렸습니다. `Injector` 프로그램이 윈도우 내 바이러스로 차단된다면, 다른 `Injector` 프로그램을 찾으셔서 사용하셔도 무방합니다.   
+
 ### 업데이트
 * 버전 업데이트 필요 시, 이 곳에 재배포 됩니다.
