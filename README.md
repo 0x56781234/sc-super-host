@@ -49,3 +49,4 @@
 * https://m.ygosu.com/board/st1/343333/?frombest=Y&type=vote
 * https://gall.dcinside.com/board/view/?id=starcraft_new&no=5302889
 * https://gall.dcinside.com/board/view/?id=starcraft_new&no=5303006
+* https://gall.dcinside.com/mgallery/board/view/?id=usemap&no=9664
