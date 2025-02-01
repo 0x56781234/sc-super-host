@@ -36,3 +36,16 @@
 자동 업데이트가 아니므로, 본 깃허브 저장소에서 업데이트 된 파일을 수동으로 다운로드 받으셔야 합니다.
 
 * [2025-02-01] dll 주입시 일부 스타크래프트 팅김 현상 수정
+
+### k런처(klauncher) 핵 프로그램 관련 여러 의혹글
+* https://gall.dcinside.com/board/view/?id=starcraft_new&no=5300084
+* https://gall.dcinside.com/board/view/?id=starcraft_new&no=5208237
+* https://gall.dcinside.com/board/view/?id=starcraft_new&no=5314892
+* https://gall.dcinside.com/board/view/?id=starcraft_new&no=5295375
+* https://gall.dcinside.com/board/view/?id=starcraft_new&no=5295782
+* https://gall.dcinside.com/board/view/?id=starcraft_new&no=5277420
+* https://m.ygosu.com/board/st1/390790/?searcht=&search=&m3=&page=
+* https://m.cafe.daum.net/wDetector/GM4H/260
+* https://m.ygosu.com/board/st1/343333/?frombest=Y&type=vote
+* https://gall.dcinside.com/board/view/?id=starcraft_new&no=5302889
+* https://gall.dcinside.com/board/view/?id=starcraft_new&no=5303006
